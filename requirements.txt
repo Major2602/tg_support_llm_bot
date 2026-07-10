@@ -1,0 +1,4 @@
+aiogram
+asyncpg
+huggingface_hub
+aiohttp
