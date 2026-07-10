@@ -1,9 +1,9 @@
 ### Model & Provider:
 Qwen3.5-2B via Hugging Face Hub Inference Provider API
 ### Backend
-Render cloud hosting Web Service (serverless)
+Render Cloud Hosting (serverless)
 ### Database
-Neon PostgreSQL database (serverless)
+Neon PostgreSQL Database (serverless)
 ### Workflow:
 1) Sends Hello message to user, describing functionality.
 2) After receiving user's message bot is searching through its knowledgebase (PostgreSQL table) for answer (RAG implementation).
