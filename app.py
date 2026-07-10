@@ -97,6 +97,21 @@ async def handle_text(message: types.Message):
     except Exception as e:
         await message.answer(f"API Error: {e}")
 
+@dp.callback_query(F.data == "feedback_yes")
+async def process_feedback_yes(callback: types.CallbackQuery):
+    await callback.message.edit_text("Glad I could help!")
+    await callback.answer()
+
+@dp.callback_query(F.data == "feedback_no")
+async def process_feedback_no(callback: types.CallbackQuery):
+    await callback.message.answer("Your request is in progress, please wait")
+    await callback.answer()
+
+@dp.callback_query(F.data == "feedback_another")
+async def process_feedback_another(callback: types.CallbackQuery):
+    await callback.message.answer("Sure, what do you need help with?")
+    await callback.answer()
+
 async def on_startup(bot: Bot):
     await init_db()
     await bot.set_webhook(WEBHOOK_URL)
