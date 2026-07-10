@@ -1,0 +1,101 @@
+question,answer
+What do I need to create a Binance account?,"You need a valid email address or mobile phone number to register. Depending on your region and the services you want to use, identity verification may also be required."
+Why should I complete identity verification on Binance?,"Identity verification helps protect your account, enables access to more products and services, and may increase account limits based on local regulations."
+Can I use Binance without completing identity verification?,Available features vary by region. Some services may be restricted until identity verification is completed in accordance with applicable regulations.
+How can I change the email address linked to my Binance account?,"You can update your email through your account settings. For security reasons, Binance may require identity verification and additional confirmation before the change is completed."
+What should I do if I forget my Binance password?,"Use the password reset option on the login page, complete the required verification steps, and create a new secure password."
+Why is two-factor authentication recommended?,"Two-factor authentication adds an extra layer of security by requiring a second verification method in addition to your password, helping reduce unauthorized account access."
+Can I enable more than one security verification method?,"Yes. Binance supports multiple security methods, such as authenticator apps, email verification, and SMS verification, depending on your region and account settings."
+Why can't I log in to my Binance account?,"Login issues may result from incorrect credentials, security restrictions, temporary account protection, or incomplete verification. Check your login details and complete any required security steps."
+How do I update my personal information on Binance?,"Certain account details can be updated through your profile settings, while sensitive information may require identity verification or customer support assistance."
+What is the purpose of the Binance Help Center?,"The Help Center provides guides, FAQs, tutorials, and troubleshooting information for Binance products and services."
+Where can beginners learn how to use Binance?,"Binance offers tutorials and step-by-step guides covering registration, deposits, trading, withdrawals, security, and other platform features."
+What is Binance Wallet?,"Binance Wallet is a Web3 wallet that allows users to manage digital assets, interact with decentralized applications, and access supported blockchain networks."
+How is Binance Wallet different from a Spot Wallet?,"A Spot Wallet stores assets used for trading on the Binance exchange, while Binance Wallet is designed for Web3 interactions and managing on-chain assets."
+Can I transfer assets between my Binance account and Binance Wallet?,"Yes. Supported assets can typically be transferred between eligible Binance accounts and Binance Wallet, subject to network availability and supported tokens."
+What is Binance Alpha?,"Binance Alpha is a platform that highlights selected early-stage blockchain projects and tokens, giving users exposure to emerging Web3 ecosystems."
+Does appearing on Binance Alpha guarantee a future exchange listing?,No. Inclusion in Binance Alpha does not guarantee that a project or token will be listed on the Binance exchange.
+What is the Quick Buy feature in Binance Alpha?,Quick Buy simplifies eligible token purchases by automatically handling settings such as supported token selection and transaction parameters.
+How do I deposit cryptocurrency into Binance?,"Select the cryptocurrency you want to deposit, choose the correct blockchain network, copy your Binance deposit address, and send the assets from your external wallet."
+Why is selecting the correct blockchain network important when depositing crypto?,The sending and receiving networks must match. Using the wrong network can result in delayed or permanently lost assets.
+What is a deposit address?,A deposit address is the blockchain address generated for your Binance account where supported cryptocurrency can be received.
+Why do some cryptocurrency deposits require a memo or tag?,"Certain cryptocurrencies use an additional identifier, such as a memo, destination tag, or payment ID, to correctly assign deposits to your account."
+How can I check whether my crypto deposit has been completed?,You can review your deposit history in your Binance account and verify the blockchain transaction status using the transaction ID if necessary.
+How do I withdraw cryptocurrency from Binance?,"Select the cryptocurrency, enter the recipient's wallet address, choose the correct blockchain network, specify the amount, and complete the required security verification before confirming the withdrawal."
+Why does Binance require security verification before withdrawals?,Security verification helps prevent unauthorized withdrawals by confirming that the account owner is initiating the transaction.
+Can a cryptocurrency withdrawal be canceled after it is confirmed?,"In most cases, no. Once a blockchain transaction has been broadcast and confirmed, it generally cannot be reversed, so users should carefully verify all withdrawal details before submitting the request. Binance FAQ Collection (Part 2: #26–50)"
+What is Binance Junior?,Binance Junior is an educational initiative designed to introduce younger audiences to basic blockchain and cryptocurrency concepts through age-appropriate learning materials.
+Does Binance Junior allow users to trade cryptocurrencies?,No. Binance Junior focuses on education and does not provide cryptocurrency trading features for minors.
+What are crypto derivatives on Binance?,Crypto derivatives are financial contracts whose value is based on the price of an underlying cryptocurrency rather than ownership of the asset itself.
+What is perpetual futures trading?,Perpetual futures trading allows users to speculate on cryptocurrency price movements without a contract expiration date.
+What is leverage in crypto derivatives trading?,"Leverage allows traders to open positions larger than their account balance by borrowing funds, increasing both potential profits and potential losses."
+What is liquidation in futures trading?,"Liquidation occurs when a trader's margin balance is no longer sufficient to maintain an open leveraged position, causing the position to close automatically."
+What is margin in futures trading?,Margin is the collateral required to open and maintain leveraged positions in the derivatives market.
+What is the difference between isolated margin and cross margin in futures?,"Isolated margin limits risk to a single position, while cross margin shares available margin across multiple eligible positions."
+Can beginners trade crypto derivatives?,"Binance provides educational resources, but users should understand the risks of leveraged trading before participating in derivatives markets."
+How can I buy cryptocurrency with fiat currency on Binance?,"You can purchase supported cryptocurrencies using available payment methods such as bank cards, bank transfers, or other regional payment options."
+What is Binance P2P?,Binance P2P is a peer-to-peer marketplace where users can buy and sell cryptocurrencies directly with one another using supported payment methods.
+How does Binance P2P protect buyers and sellers?,Binance uses an escrow system that temporarily holds cryptocurrency until both parties complete the agreed transaction requirements.
+Can I choose my preferred payment method on Binance P2P?,"Yes. Users can select offers based on supported payment methods, currencies, and other trading preferences."
+Why should I communicate only through the Binance P2P chat?,Keeping communication within the platform helps maintain transaction records and supports dispute resolution if needed.
+What should I do if the seller does not release my cryptocurrency?,"If payment has been completed according to the trade terms, you can submit an appeal for Binance to review the transaction."
+What is Spot Trading?,Spot Trading allows users to buy and sell cryptocurrencies for immediate settlement at the current market price or a specified limit price.
+What is the difference between a market order and a limit order?,"A market order executes immediately at the best available market price, while a limit order executes only when the specified price becomes available."
+What is a stop-limit order?,A stop-limit order places a limit order after a specified stop price has been reached.
+What is a stop-market order?,A stop-market order becomes a market order once the predefined stop price is triggered.
+What is slippage in cryptocurrency trading?,"Slippage is the difference between the expected execution price and the actual execution price, often caused by market volatility or limited liquidity."
+What is Margin Trading on Binance?,Margin Trading allows eligible users to borrow funds to increase their buying or selling power when trading supported cryptocurrencies.
+What happens if a margin position loses too much value?,"If the margin level falls below required thresholds, the position may receive a margin call or be liquidated to manage risk."
+Can I repay borrowed margin funds early?,Yes. Borrowed funds and any applicable interest can generally be repaid before the maximum borrowing period ends.
+What are Trading Bots on Binance?,Trading Bots are automated tools that execute predefined trading strategies based on user-selected parameters and market conditions.
+Do Trading Bots guarantee profits?,"No. Trading Bots automate trading strategies, but market conditions can change unexpectedly, and profits are never guaranteed. Binance FAQ Collection (Part 3: #51–75)"
+What is Binance Copy Trading?,Binance Copy Trading allows eligible users to automatically replicate the trading strategies of selected lead traders based on predefined settings.
+Can I choose which trader to copy?,Yes. Users can review available lead traders and choose whom to follow based on their own evaluation and risk preferences.
+Can I stop Copy Trading at any time?,"Yes. You can stop copying a trader, although any open positions may need to be managed or closed according to your preferences."
+Does Copy Trading guarantee the same results as the lead trader?,"No. Performance may differ due to factors such as execution timing, account balance, market conditions, and position sizing."
+What is Binance Finance?,Binance Finance includes financial products and services that help users manage digital assets through various investment and asset management solutions.
+What is Launchpool?,Launchpool allows eligible users to earn rewards by locking supported cryptocurrencies to receive tokens from participating blockchain projects.
+How are Launchpool rewards calculated?,Rewards are generally based on the amount of eligible assets locked and the reward distribution rules established for each Launchpool campaign.
+Can I redeem my assets before a Launchpool campaign ends?,"Redemption options depend on the specific campaign terms, and eligible assets may often be unlocked according to the product's rules."
+What is Binance Megadrop?,Binance Megadrop is a token distribution platform that combines eligible participation activities with opportunities to receive rewards from selected blockchain projects.
+Do all Binance users qualify for Megadrop campaigns?,"Eligibility depends on the campaign requirements, supported regions, and compliance with applicable participation conditions."
+What is Binance Earn?,Binance Earn offers products that allow eligible users to earn rewards on supported digital assets through various savings and investment options.
+What is the difference between Flexible and Locked Earn products?,"Flexible products generally allow withdrawals at any time, while Locked products require assets to remain committed for a specified period."
+How are rewards distributed in Binance Earn?,"Reward distribution varies by product and is calculated according to the product's terms, applicable rates, and holding period."
+Can I redeem assets before a Locked Earn product matures?,"Some Locked Earn products may support early redemption, but doing so can reduce or eliminate earned rewards depending on the product terms."
+What is a Binance Fan Token?,A Binance Fan Token is a digital asset that enables supporters of participating sports organizations to access fan engagement opportunities and platform features.
+What can Fan Token holders do?,"Depending on the participating organization, holders may vote in polls, participate in promotions, or access exclusive fan experiences."
+What is Binance Convert?,Binance Convert is a feature that enables users to exchange supported cryptocurrencies without using the traditional trading interface.
+How is Binance Convert different from Spot Trading?,"Binance Convert provides a simplified asset conversion experience, while Spot Trading uses order books and various order types."
+What is Block Trade on Binance?,Block Trade is a service designed for executing large cryptocurrency transactions while helping reduce the potential market impact.
+Who typically uses Block Trade services?,Block Trade is generally intended for institutional participants or users executing large-volume transactions.
+What is the Binance API?,The Binance API allows developers to connect their applications to Binance services for activities such as retrieving market data and managing eligible account functions.
+Can I automate my trading using the Binance API?,Yes. Developers can build applications that automate supported trading activities while complying with Binance's API requirements and rate limits.
+Why are API keys important?,API keys authenticate your application and define which account permissions are available for authorized API requests.
+How can I keep my API keys secure?,"Store API keys securely, enable permission restrictions, avoid sharing them publicly, and rotate or delete them if you suspect they have been compromised."
+What is Binance Link?,Binance Link is a business solution that enables eligible partners to integrate Binance infrastructure and services into their own platforms. Binance FAQ Collection (Part 4: #76–100)
+What is the Binance NFT platform?,"The Binance NFT platform enables eligible users to discover, buy, sell, and manage supported non-fungible tokens within the Binance ecosystem."
+How can I buy an NFT on Binance?,"You can browse available NFT listings, select an item, review its details, and complete the purchase using a supported payment method or cryptocurrency."
+Can I sell NFTs on Binance?,"Yes. Eligible users can list supported NFTs for sale, subject to the platform's listing requirements and applicable fees."
+What is Binance Square?,"Binance Square is a content platform where users can discover cryptocurrency news, market insights, educational content, and community discussions."
+Can users publish content on Binance Square?,Eligible users and verified creators can publish content in accordance with Binance's community guidelines and platform policies.
+What is the Binance VIP Program?,"The Binance VIP Program provides eligible users with benefits such as reduced trading fees, dedicated support, and access to exclusive services based on qualification criteria."
+How can I qualify for Binance VIP status?,"Eligibility is generally based on factors such as trading volume, asset holdings, or other requirements defined by Binance."
+What is the Binance Tax tool?,Binance Tax helps eligible users generate reports of supported cryptocurrency transactions for tax reporting purposes.
+Does Binance Tax calculate taxes for every country?,Availability and supported tax reporting features vary by jurisdiction and may not cover every country's tax requirements.
+Why is account security important on Binance?,Strong account security helps protect your assets and personal information from unauthorized access and fraudulent activity.
+What security features does Binance provide?,"Binance offers features such as two-factor authentication, device management, withdrawal protection, anti-phishing measures, and login monitoring."
+What is an anti-phishing code?,An anti-phishing code is a custom security phrase included in legitimate Binance emails to help users distinguish authentic communications from phishing attempts.
+What should I do if I suspect unauthorized activity on my account?,"Immediately change your password, review your security settings, disable suspicious API keys if applicable, and contact Binance Support for assistance."
+What is the Binance Referral Program?,The Binance Referral Program allows eligible users to invite others to Binance and receive rewards when referral requirements are met.
+How do I share my Binance referral link?,You can generate and share your unique referral link or referral ID through the Referral Program section of your Binance account.
+What is Binance OTC?,Binance OTC provides over-the-counter trading services for large cryptocurrency transactions without using the public order book.
+What are Binance Execution Services?,Binance Execution Services offer professional trade execution solutions designed to help eligible clients complete large or specialized transactions efficiently.
+How can I contact Binance Chat Support?,You can access Binance Chat through the Binance website or mobile app to receive automated assistance or connect with a customer support representative when available.
+What information should I prepare before contacting Binance Support?,"Be ready to provide relevant account details, transaction IDs, screenshots if applicable, and a clear description of your issue to help speed up the support process."
+What is Binance Stock Trading?,"Binance Stock Trading provides eligible users with access to supported stock-related investment products, subject to regional availability and applicable regulations."
+What are bStocks?,"bStocks are tokenized products designed to represent eligible stock-related assets within the Binance ecosystem, where available and permitted by regulation."
+Are Stock Trading and bStocks available in every country?,"No. Availability depends on your jurisdiction, local regulations, and Binance's supported regions."
+Why are some Binance features unavailable in my region?,"Binance adjusts product availability to comply with local laws, licensing requirements, and regulatory obligations in different jurisdictions."
+How can I stay informed about new Binance products and policy updates?,"You can monitor the Binance announcements, Help Center, and official communication channels for information about new features, product launches, and policy changes."
+Where can I find answers to additional Binance questions?,"The Binance Help Center provides searchable documentation, tutorials, product guides, and support resources covering a wide range of Binance services."
