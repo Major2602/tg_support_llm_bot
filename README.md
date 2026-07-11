@@ -1,5 +1,5 @@
 # General
-Support Telegram LLM Bot that uses Binance FAQ to answer user questions.
+Support Telegram LLM Bot that uses Binance FAQ to answer user questions. The bot is available on https://t.me/test348527_bot
 ### Model & Provider:
 Qwen3.5-2B via Hugging Face Hub Inference Provider API.
 ### Backend
